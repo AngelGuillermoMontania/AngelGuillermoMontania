@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Angel Guillermo Montaña
+<h1 align="center">Hi 👋, I'm Angel Guillermo Montaña</h1>
+<h3 align="center">Full Stack Developer</h3>
+
 - 👀 I’m interested in Full Stack Developer!
 - 🌱 I’m currently learning English language, Javascript, React, CSS, HTML, EJS, NODE, MONGODB, Scrum, Express...
 - 🎓 Studying at Henry and Formar of Digital House
