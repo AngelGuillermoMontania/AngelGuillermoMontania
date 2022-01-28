@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguillermomontania&show_icons=true&locale=en&layout=compact" alt="angelguillermomontania" /></p>
 
-<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true" alt="angelguillermomontania" /></p>
