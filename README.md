@@ -1,28 +1,113 @@
-<h1 align="center">Hi 👋, I'm Angel Guillermo Montaña</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-- 👀 I’m interested in Full Stack Developer, Front-End or Back-End!
-- 🎓 I specialize in JavaScript, Css, HTML, SQL, Node, React and Express
-- 🌱 I’m currently learning English language, TypeScript, NextJs, NestJs, MONGODB...
-- 🎓 I studied at Henry and Formar with Digital House. Studying at Oracle Next Education and autonomously
-- 💞️ I seek to learn and grow as much as possible in the IT area
-- 💬 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/angel-guillermo-monta%C3%B1a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angel-guillermo-monta%C3%B1a/" height="30" width="40" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="babel"/> </a>
+<p align="center">
+    <img src="./title.gif" width="100%" height="150px" style="border-radius: 10px;">
+    <img src="./sub.png" width="100%" height="150px" style="border-radius: 10px; margin-top: -20px;">
 </p>
 
-<br><br>
+<br>
+<img alt="GIF" src="./coding.gif" width="600" height="400" style="float: right; border-radius: 10px" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&layout=compact" alt="angelguillermomontania" /></p>
+<h2 align="left">
+    About me:
+</h2>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true" alt="angelguillermomontania" /></p>
+- 📌 I live in San Juan, Argentina
+- 👀 I’m interested in Full Stack Developer, Front-End or Back-End!
+- 🎯 I specialize in JavaScript, React, Css, HTML, Node, Express, Sequelize and SQL
+- 🌱 I’m currently learning English language, TypeScript, NextJs, NestJs, GraphQL, MongoDB...
+- 🎓 I studied at Henry and Formar with Digital House. Studying at Oracle Next Education and autonomously
+- 💞️ I seek to learn and grow as much as possible in the IT area
+- 🏀 I like basketball and rock and roll
+
+<br>
+<br>
+<h3 align="left">
+    Connect with me:
+</h3>
+<p align="left" >
+    <a href="mailto:angelguillermomontania@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="babel"/>
+    </a>
+    <a href="https://www.linkedin.com/in/angel-guillermo-montania/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="babel"/>
+    </a>
+    <a href="https://twitter.com/AngelGMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="babel"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=542644576693&text=Hola!%20Soy%20Angel%20Guillermo%20Monta%C3%B1a,%20Full%20Stack%20Developer!%20Es%20un%20placer%20que%20me%20escribas,%20estoy%20aqu%C3%AD%20para%20responder%20lo%20que%20desees%20saber!" target="_blank" rel="noreferrer" style="vertical-align: center">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="babel"/>
+    </a>
+    <a href="https://t.me/AngelGuillermoMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="babel"/>
+    </a>
+
+![](https://dcbadge.vercel.app/api/shield/958503795426492447)
+</p>
+
+<br>
+<br>
+
+<h2 align="center" style="font-weight: bold; font-size: 32px">
+    Languages and Tools:
+</h2>
+<h2 align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+</h2>
+<h2 align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,styledcomponents,nodejs,express,mysql,postgres)](https://skillicons.dev)
+<img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="45" height="45" style="margin: 0 6px 0 6px"/>
+</h2>
+
+<h2 align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,github,jest,linux,vscode,webpack)](https://skillicons.dev)
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 6px 0 6px"/>
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="45" height="45" style="margin: 0 6px 0 6px"/>
+</h2>
+
+<br>
+<br>
+<br>
+
+<h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=55&color=042BF7&center=true&vCenter=true&lines=+What+I+do%3F)](https://git.io/typing-svg)
+
+</h2>
+<p align="center">
+<img align="center" src="./program.gif" alt="angelguillermomontania" width="1000" />
+</p>
+
+<h2 align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2136qop4ymwbtw4navmt2mtei&cover_image=true&theme=default&bar_color=5b42bd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</h2>
+
+<br>
+<br>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true" alt="angelguillermomontania" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelguillermomontania&theme=radical" alt="angelguillermomontania" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&layout=compact" alt="angelguillermomontania" />
+</p>
+
+<br>
+<br>
+
+<p align="center">
+
+![](https://gitwar.herokuapp.com/badge?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelguillermomontania&theme=radical" alt="angelguillermomontania" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
