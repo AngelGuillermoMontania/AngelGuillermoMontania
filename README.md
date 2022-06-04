@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="./title.gif" width="100%" height="150px" style="border-radius: 10px;">
-    <img src="./sub.png" width="100%" height="150px" style="border-radius: 10px; margin-top: -20px;">
+    <img src="./header.gif" width="100%" height="250px">
 </p>
 
 <br>
