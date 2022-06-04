@@ -2,14 +2,11 @@
     <img src="./header.gif" width="100%" height="250px">
 </p>
 
-<br>
-
-<img align="right" alt="GIF" src="./coding.gif" width="600" height="400" />
-
 <h2 align="left">
     About me:
 </h2>
 
+<img align="right" alt="GIF" src="./coding.gif" width="450" height="270" />
 
 - 📌 I live in San Juan, Argentina
 - 👀 I’m interested in Full Stack Developer, Front-End or Back-End!
@@ -21,10 +18,10 @@
 
 <br>
 <br>
-<h3 align="left">
+<h2 align="center">
     Connect with me:
-</h3>
-<p align="left" >
+</h2>
+<p align="center" >
     <a href="mailto:angelguillermomontania@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="babel"/>
     </a>
@@ -40,16 +37,19 @@
     <a href="https://t.me/AngelGuillermoMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="babel"/>
     </a>
-
-![](https://dcbadge.vercel.app/api/shield/958503795426492447)
+</p>
+<p align="center">
+    <a href="https://t.me/AngelGuillermoMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="babel"/>
+    </a>
 </p>
 
 <br>
 <br>
 
-<h5 align="center" style="font-weight: bold; font-size: 32px">
+<h2 align="center">
     Languages and Tools:
-</h5>
+</h2>
 <h5 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
@@ -70,16 +70,13 @@
 <br>
 <br>
 <br>
-
+<h2></h2>
 <h2 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=55&color=042BF7&center=true&vCenter=true&lines=+What+I+do%3F)](https://git.io/typing-svg)
-
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=50&color=FFFFFF&background=2114FF13&center=true&vCenter=true&width=900&height=88&lines=What+is+it+that+I+know+how+to+do%3F)](https://git.io/typing-svg)
+<img align="center" src="./program.gif" alt="angelguillermomontania" width="90%" />
 </h2>
-<p align="center">
-<img align="center" src="./program.gif" alt="angelguillermomontania" width="1000" />
-</p>
-
+<br>
 <h2 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2136qop4ymwbtw4navmt2mtei&cover_image=true&theme=default&bar_color=5b42bd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -89,12 +86,12 @@
 <br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true" alt="angelguillermomontania" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelguillermomontania&theme=radical" alt="angelguillermomontania" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true&bg_color=000000" alt="angelguillermomontania" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AngelGuillermoMontania&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000" alt="angelguillermomontania" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&layout=compact" alt="angelguillermomontania" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&layout=compact&bg_color=000000" alt="angelguillermomontania" />
 </p>
 
 <br>
@@ -102,8 +99,8 @@
 
 <p align="center">
 
-![](https://gitwar.herokuapp.com/badge?username=your-github-username)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://gitwar.herokuapp.com/badge?username=AngelGuillermoMontania)
+![](https://komarev.com/ghpvc/?username=AngelGuillermoMontania)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 </p>
 
