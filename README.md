@@ -3,7 +3,8 @@
 </p>
 
 <br>
-<img alt="GIF" src="./coding.gif" width="600" height="400" style="float: right; border-radius: 10px" />
+
+<img align="right" alt="GIF" src="./coding.gif" width="600" height="400" />
 
 <h2 align="left">
     About me:
@@ -46,25 +47,25 @@
 <br>
 <br>
 
-<h2 align="center" style="font-weight: bold; font-size: 32px">
+<h5 align="center" style="font-weight: bold; font-size: 32px">
     Languages and Tools:
-</h2>
-<h2 align="center">
+</h5>
+<h5 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-</h2>
-<h2 align="center">
+</h5>
+<h5 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,styledcomponents,nodejs,express,mysql,postgres)](https://skillicons.dev)
 <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="45" height="45" style="margin: 0 6px 0 6px"/>
-</h2>
+</h5>
 
-<h2 align="center">
+<h5 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=bash,figma,github,jest,linux,vscode,webpack)](https://skillicons.dev)
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 6px 0 6px"/>
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="45" height="45" style="margin: 0 6px 0 6px"/>
-</h2>
+</h5>
 
 <br>
 <br>
