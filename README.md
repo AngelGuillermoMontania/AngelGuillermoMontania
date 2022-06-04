@@ -39,7 +39,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://t.me/AngelGuillermoMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
+    <a href="https://discord.gg/N6Hj5zvS" target="_blank" rel="noreferrer" style="vertical-align: center">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="babel"/>
     </a>
 </p>
