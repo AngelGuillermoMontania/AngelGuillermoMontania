@@ -11,8 +11,8 @@
 - 📌 I live in San Juan, Argentina
 - 👀 I’m interested in Full Stack Developer, Front-End or Back-End!
 - 🎯 I specialize in JavaScript, React, Css, HTML, Node, Express, Sequelize and SQL
-- 🌱 I’m currently learning English language, TypeScript, NextJs, NestJs, GraphQL, MongoDB...
-- 🎓 I studied at Henry and Formar with Digital House. Studying at Oracle Next Education and autonomously
+- 🌱 I’m currently learning English language, Java, Phyton, NestJs, MongoDB...
+- 🎓 I studied at Henry,Formar with Digital House and Oracle Next Education. Studying autonomously
 - 💞️ I seek to learn and grow as much as possible in the IT area
 - 🏀 I like basketball and rock and roll
 
