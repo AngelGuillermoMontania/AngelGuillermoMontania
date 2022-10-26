@@ -56,7 +56,7 @@
 </h5>
 <h5 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,styledcomponents,nodejs,express,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,styledcomponents,nodejs,express,nestjs,mysql,postgres)](https://skillicons.dev)
 <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="45" height="45" style="margin: 0 6px 0 6px"/>
 </h5>
 
