@@ -10,8 +10,8 @@
 
 - 📌 I live in San Juan, Argentina
 - 👀 I’m interested in Full Stack Developer, Front-End or Back-End!
-- 🎯 I specialize in JavaScript, React, Css, HTML, Node, Express, Sequelize and SQL
-- 🌱 I’m currently learning English language, Java, Phyton, NestJs, MongoDB...
+- 🎯 I specialize in JavaScript, TypeScript, React, Vue, Css, HTML, Node, Express and SQL
+- 🌱 I’m currently learning English language, Phyton, NestJs, MongoDB, ...
 - 🎓 I studied at Henry,Formar with Digital House and Oracle Next Education. Studying autonomously
 - 💞️ I seek to learn and grow as much as possible in the IT area
 - 🏀 I like basketball and rock and roll
@@ -56,14 +56,12 @@
 </h5>
 <h5 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,styledcomponents,nodejs,express,nestjs,mysql,postgres)](https://skillicons.dev)
-<img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="45" height="45" style="margin: 0 6px 0 6px"/>
+[![My Skills](https://skillicons.dev/icons?i=vite,react,redux,nextjs,vue,tailwind,bootstrap,materialui,nodejs,express,nestjs,prisma,sequelize,mysql,postgres)](https://skillicons.dev)
 </h5>
 
 <h5 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,github,jest,linux,vscode,webpack)](https://skillicons.dev)
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 6px 0 6px"/>
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,jest,linux,vscode,webpack,postman)](https://skillicons.dev)
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="45" height="45" style="margin: 0 6px 0 6px"/>
 </h5>
 
