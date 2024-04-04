@@ -56,7 +56,7 @@
 </h5>
 <h5 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,redux,nextjs,vue,vuetify,tailwind,bootstrap,materialui,nodejs,express,nestjs,prisma,sequelize,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,redux,nextjs,bootstrap,materialui,vue,pinia,vuetify,tailwind,nodejs,express,nestjs,prisma,sequelize,mysql,postgres)](https://skillicons.dev)
 </h5>
 
 <h5 align="center">
