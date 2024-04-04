@@ -75,10 +75,7 @@
 <img align="center" src="./program.gif" alt="angelguillermomontania" width="90%" />
 </h2>
 <br>
-<h2 align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2136qop4ymwbtw4navmt2mtei&cover_image=true&theme=default&bar_color=5b42bd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</h2>
 
 <br>
 <br>
