@@ -2,6 +2,9 @@
     <img src="./header.gif" width="100%" height="250px">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelGuillermoMontania&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <h2 align="left">
     About me:
 </h2>
