@@ -80,9 +80,7 @@
 <br>
 <br>
 
-<div>
-     [![trophy](https://github-profile-trophy.vercel.app/?username=AngelGuillermoMontania&theme=monokai&rank=S,AAA,AA,A&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelGuillermoMontania&theme=monokai&rank=S,AAA,AA,A&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguillermomontania&show_icons=true&theme=radical&locale=en&count_private=true&bg_color=000000" alt="angelguillermomontania" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AngelGuillermoMontania&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=000000" alt="angelguillermomontania" />
