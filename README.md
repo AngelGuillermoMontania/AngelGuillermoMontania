@@ -28,9 +28,6 @@
     <a href="https://www.linkedin.com/in/angel-guillermo-montania/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="babel"/>
     </a>
-    <a href="https://twitter.com/AngelGMontania" target="_blank" rel="noreferrer" style="vertical-align: center">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="babel"/>
-    </a>
     <a href="https://api.whatsapp.com/send?phone=542644576693&text=Hola!%20Soy%20Angel%20Guillermo%20Monta%C3%B1a,%20Full%20Stack%20Developer!%20Es%20un%20placer%20que%20me%20escribas,%20estoy%20aqu%C3%AD%20para%20responder%20lo%20que%20desees%20saber!" target="_blank" rel="noreferrer" style="vertical-align: center">
         <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="babel"/>
     </a>
